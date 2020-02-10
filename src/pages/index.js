@@ -405,7 +405,7 @@ class HomeIndex extends React.Component {
 
                     <section>
                     <h2>Gatsby React Project</h2>
-                    <p>I design this websites with Gatsby, React, HTML5, Sass(CSS) and Java Script.<br />
+                    <p>I design these websites with Gatsby, React, HTML5, Sass(CSS) and Java Script.<br />
                     Some of the following websites are made by me</p>
                     <h3>1- Umair Zaki Portfolio</h3>
                     <p>to see my website <a href="https://umairzakiportfolio.netlify.com/" target = "_blank"> Click Here</a></p>
